@@ -13,6 +13,9 @@
 get_header(); ?>
 
 <div class="wrap">
+	<div>
+		OVo je page
+	</div>
 	<div id="primary" class="content-area">
 		<main id="main" class="site-main" role="main">
 
